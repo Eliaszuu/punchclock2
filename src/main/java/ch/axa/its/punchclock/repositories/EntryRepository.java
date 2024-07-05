@@ -1,4 +1,4 @@
-package ch.axa.its.punchclock.repository;
+package ch.axa.its.punchclock.repositories;
 
 import org.springframework.data.repository.CrudRepository;
 
